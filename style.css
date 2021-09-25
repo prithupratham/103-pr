@@ -1,0 +1,17 @@
+body{
+    background-color:aqua;
+    color:gold;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color:Black;
+}
+#Camera{
+    border:2px dashed rgb(34, 149, 178);
+    width:350px;
+    height:350px;
+
+}
